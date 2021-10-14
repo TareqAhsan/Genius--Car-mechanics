@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "replace tyre",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore iure sed dignissimos ut odio quas, incidunt nemo doloribus ratione.",
+    "img": "https://i.ibb.co/41C1r4y/william-bayreuther-c9k-IYa-NCfpk-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "replace engine",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore iure sed dignissimos ut odio quas, incidunt nemo doloribus ratione.",
+    "img": "https://i.ibb.co/6X0VNht/sten-rademaker-UZUzv-JEv-Kn-I-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Engine service",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore iure sed dignissimos ut odio quas, incidunt nemo doloribus ratione.",
+    "img": "https://i.ibb.co/vc2SNkX/jakob-rosen-JUkrw-Vi-Cvy-E-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "new tyre servicing",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore iure sed dignissimos ut odio quas, incidunt nemo doloribus ratione.",
+    "img": "https://i.ibb.co/ydvKPQz/florian-olivo-5-Fzlfb0-GR1-E-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "modification",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore iure sed dignissimos ut odio quas, incidunt nemo doloribus ratione.",
+    "img": "https://i.ibb.co/p3v8Mys/erik-mclean-3u-Hl-GFnz-PDU-unsplash.jpg"
+  },
+  {
+    "id": 6,
+    "name": "replace tyre",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore iure sed dignissimos ut odio quas, incidunt nemo doloribus ratione.",
+    "img": "https://i.ibb.co/CwJr5rm/aditya-naidu-E12bfk-Jyl-UA-unsplash.jpg"
+  }
+]
