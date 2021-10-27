@@ -6,7 +6,8 @@ import "./Services.css";
 const Services = () => {
   const [services, setServices] = useState([]);
   useEffect(() => {
-    fetch("/services.json")
+    // fetch("/services.json")
+      fetch('https://infinite-temple-97581.herokuapp.com/services')
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);
@@ -14,8 +15,8 @@ const Services = () => {
     <Container id="services" className="my-5">
       <h1 className="text-dark my-4 text-center">OUR SERVICES</h1>
       <Row xs={1} md={2} lg={3} className="g-4">
-        {services.map((service) => (
-          <Service key={service.id} service={service}></Service>
+        {services?.map((service) => (
+          <Service key={service._id} service={service}></Service>
         ))}
       </Row>
     </Container>
